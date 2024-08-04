@@ -1,0 +1,6 @@
+core_cm7.h:1902:22:__NVIC_EnableIRQ	16	static,ignoring_inline_asm
+main.c:30:5:main	8	static
+main.c:59:6:init_GPIO	4	static
+main.c:92:6:init_syscfg	4	static
+main.c:98:6:init_interrupt	8	static
+main.c:113:6:EXTI15_10_IRQHandler	4	static
